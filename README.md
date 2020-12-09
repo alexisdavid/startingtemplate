@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Template inicial para proyecto reactjs con react-router-dom y context
+# Initial template for reactjs project with react-router-dom and context
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Este proyecto inicia como un repositorio propio tomando como base el repositorio de [Trejo code](https://github.com/TrejoCode/react-boilerplate) y adecuandolo a necesidades mas generales a modo que sea facil de configurar para cualquier proyecto.
+
+This project starts as its own repository based on the Trejo code repository [Trejo code](https://github.com/TrejoCode/react-boilerplate) and adapting it to more general needs so that it is easy to configure for any project
 
 ## Available Scripts
 
